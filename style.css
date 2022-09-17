@@ -1,0 +1,23 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+header div img{
+    width: 400px;
+    margin: auto;
+}
+
+
+ul{
+    list-style-type: none;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: top center;
+    background-color: #708090;
+}
